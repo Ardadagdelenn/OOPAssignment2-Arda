@@ -1,7 +1,7 @@
-public class ShapeManager {
+public class ShapeManagement {
     private ShapeList shapeList;
 
-    public ShapeManager() {
+    public ShapeManagement() {
         shapeList = new ShapeList();
     }
 
